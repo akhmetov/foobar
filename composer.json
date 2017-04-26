@@ -1,0 +1,9 @@
+{
+    "name": "akhmetov/foobar",
+    "type": "library",
+    "autoload": {
+        "psr-4" : {
+            "FooBar\\" : "src/"
+        }
+    }
+}
