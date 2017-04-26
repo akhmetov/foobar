@@ -6,6 +6,6 @@ class Hello
 {
 	public function say()
 	{
-		return 'Black overlord!';
+		return 'Aloha!';
 	}
 }
